@@ -8,7 +8,6 @@ This wizard is simple. Just click on `New Project`, select `Non-Qt Project` and 
 
 Enter the project name.
 Click `Next`.
-Select the actual path to your engine folder.
 Select the actual path to your generated C++ bindings folder.
 
 I'm planing to add more template classes in the future.
