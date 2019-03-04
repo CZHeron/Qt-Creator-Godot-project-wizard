@@ -56,14 +56,6 @@
                     }
                 },
                 {
-                    "name": "GodotHomePath",
-                    "trDisplayName": "Path to Godot Engine:",
-                    "type": "PathChooser",
-                    "data": {
-                        "kind": "existingDirectory"
-                    }
-                },
-                {
                     "name": "GDNativePath",
                     "trDisplayName": "Path to godot-cpp folder:",
                     "type": "PathChooser",

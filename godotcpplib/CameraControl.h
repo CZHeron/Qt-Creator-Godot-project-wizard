@@ -8,7 +8,7 @@
 using namespace godot;
 
 class CameraControl : public Camera{
-    GODOT_CLASS(CameraControl, Camera)
+    GODOT_CLASS(CameraControl, Camera);
 public:
     Vector3 m_translateVector = {0,0,0};
     Vector2 m_originalMousePosition = {0,0};
